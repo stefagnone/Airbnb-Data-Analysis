@@ -21,11 +21,11 @@ This project involves analyzing Airbnb data to extract actionable business insig
     |-- MongoDB_Airbnb_in_R_Stefano.R    # Custom R script for text mining and analysis
 |-- Data/
     |-- Mongo_DB_Setup.pdf               # Instructions for setting up MongoDB for Airbnb data
-    |-- Tableau_Stefano_Compagnone.twbx  # Tableau workbook containing visualizations
 |-- Output/
+    |-- Tableau_Stefano_Compagnone.twbx  # Tableau workbook containing visualizations
+    |-- Key Findings_Report.docx         # Report detailing key insights and findings
     |-- Screenshots/
         |-- Airbnb_Visualizations.docx   # Screenshots of Tableau visualizations
-        |-- Key Findings_Report.docx     # Report detailing key insights and findings
 ```
 
 ## Key Insights
